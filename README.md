@@ -13,6 +13,5 @@ I'm a junior developer with a passion for building web applications using React.
 - Backend basics with Node.js
 
 ## Approach me 
-- x(Twitter): @Ndamukunda37603
 - Email: ndamukundavainqueur@gmail.com
 
